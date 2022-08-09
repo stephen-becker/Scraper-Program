@@ -1,0 +1,9 @@
+# SETTINGS FOR THE WEBSITE SCRAPER
+---
+active-websites:
+  newegg: True
+  best-buy: True
+
+search-options:
+  limit-pages: 0 # For no limit set to 0 (0 by default)
+  wait-time: 0 # Time to load between each page
