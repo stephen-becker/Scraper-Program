@@ -1,12 +1,12 @@
 # Created by: Stephen Becker
 # Created on: 08-07-2022
-# Program name: Web Scragper
+# Program name: Web Scraper
 # Program description: This program scrapes a website, specifically newegg, and pulls requested searched data
 #                      then sorts it by price into console.
 
 # Imports & Libs
 from posixpath import split
-from bs4 import BeautifulSoup, SoupStrainer
+from bs4 import BeautifulSoup
 import requests
 import re
 
