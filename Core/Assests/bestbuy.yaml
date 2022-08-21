@@ -1,0 +1,11 @@
+# BESTBUY.YAML
+---
+website-info:
+  site-name: "BestBuy"
+  search-url: "https://www.bestbuy.com/site/searchpage.jsp?&id=pcat17071&st="
+  search-page: "cp="
+  search-page-index: 44
+  search-index: 61
+  html-items: "item-cells-wrap border-cells items-grid-view four-cells expulsion-one-cell"
+  cms-products-class: "item-cells-wrap border-cells items-grid-view four-cells expulsion-one-cell"
+  pagnation-class: "btn-group-cell"

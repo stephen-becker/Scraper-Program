@@ -1,298 +1,469 @@
 [
     [
-        "MSI Ventus GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card RTX 3060 Ventus 3X 12G OC",
+        "MSI Ventus GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support Video Card RTX 3090 VENTUS 3X 24G OC",
         {
-            "id": 1136059262004125649,
-            "price": 379,
-            "link": "https://www.newegg.com/msi-geforce-rtx-3060-rtx-3060-ventus-3x-12g-oc/p/N82E16814137631?Description=3060&cm_re=3060-_-14-137-631-_-Product",
+            "id": 4744412904989240645,
+            "price": 1149,
+            "link": "https://www.newegg.com/msi-geforce-rtx-3090-rtx-3090-ventus-3x-24g-oc/p/N82E16814137596?Description=3090&cm_re=3090-_-14-137-596-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "ASUS Phoenix NVIDIA GeForce RTX 3060 V2 Gaming Graphics Card (PCIe 4.0, 12GB GDDR6, HDMI 2.1, DisplayPort 1.4a, Axial-tech Fan Design, Protective Backplate, Dual Ball Fan Bearings, Auto-Extreme)",
+        "ZOTAC ArcticStorm GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support ATX Video Card ZT-A30900Q-30P",
         {
-            "id": -4651881550705546822,
-            "price": 383,
-            "link": "https://www.newegg.com/asus-geforce-rtx-3060-ph-rtx3060-12g-v2/p/N82E16814126532?Description=3060&cm_re=3060-_-14-126-532-_-Product",
+            "id": -5975107997627700286,
+            "price": 1179,
+            "link": "https://www.newegg.com/zotac-geforce-rtx-3090-zt-a30900q-30p/p/N82E16814500532R?Description=3090&cm_re=3090-_-14-500-532R-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "ASUS Dual GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card DUAL-RTX3060-O12G-V2",
+        "ASUS TUF Gaming GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support Video Card TUF-RTX3090-O24G-GAMING",
         {
-            "id": -2923530289830125813,
-            "price": 409,
-            "link": "https://www.newegg.com/asus-geforce-rtx-3060-dual-rtx3060-o12g-v2/p/N82E16814126524?Description=3060&cm_re=3060-_-14-126-524-_-Product",
+            "id": 805671508375207922,
+            "price": 1199,
+            "link": "https://www.newegg.com/asus-geforce-rtx-3090-tuf-rtx3090-o24g-gaming/p/N82E16814126454R?Description=3090&cm_re=3090-_-14-126-454R-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "GIGABYTE Gaming OC GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3060GAMING OC-12GD (rev. 2.0) (LHR)",
+        "EVGA GeForce RTX 3090 FTW3 ULTRA GAMING Video Card, 24G-P5-3987-KR, 24GB GDDR6X, iCX3 Technology, ARGB LED, Metal Backplate",
         {
-            "id": 6352579223621352985,
-            "price": 439,
-            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3060-gv-n3060gaming-oc-12gd/p/N82E16814932433?Description=3060&cm_re=3060-_-14-932-433-_-Product",
+            "id": 7307025046202141487,
+            "price": 1249,
+            "link": "https://www.newegg.com/evga-geforce-rtx-3090-24g-p5-3987-kr/p/N82E16814487526?Description=3090&cm_re=3090-_-14-487-526-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "GIGABYTE Gaming GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 ATX Video Card, LHR GV-N3060GAMING OC-12GD (rev. 2.0)",
+        "ASUS ROG Strix GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support Video Card ROG-STRIX-RTX3090-O24G-GAMING",
         {
-            "id": 8947225797358912935,
-            "price": 439,
-            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3060-gv-n3060gaming-oc-12gd/p/N82E16814932509?Description=3060&cm_re=3060-_-14-932-509-_-Product",
+            "id": 1151766115968503214,
+            "price": 1299,
+            "link": "https://www.newegg.com/asus-geforce-rtx-3090-rog-strix-rtx3090-o24g-gaming/p/N82E16814126456?Description=3090&cm_re=3090-_-14-126-456-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "GIGABYTE Gaming GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3060GAMING OC-12GD",
+        "PC Game Pass (100+ PC Games All You Can Play) 3 Month US Region [Digital Code] and ZOTAC ArcticStorm GeForce RTX 3090 Video Card ZT-A30900Q-30P",
         {
-            "id": 8305607037407548157,
-            "price": 439,
-            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3060-gv-n3060gaming-oc-12gd/p/N82E16814932507R?Description=3060&cm_re=3060-_-14-932-507R-_-Product",
+            "id": 2300614644911076566,
+            "price": 1319,
+            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4509929",
             "newegg in stock": true
         }
     ],
     [
-        "GIGABYTE Eagle OC GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3060EAGLE OC-12GD (rev. 2.0) (LHR)",
+        "MSI Gaming GeForce RTX 3090 Ti 24GB GDDR6X PCI Express 4.0 SLI Support ATX Video Card RTX 3090 TI GAMING X TRIO 24G",
         {
-            "id": 6552570552574730948,
-            "price": 449,
-            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3060-gv-n3060eagle-oc-12gd/p/N82E16814932434R?Description=3060&cm_re=3060-_-14-932-434R-_-Product",
+            "id": 5824810646007303272,
+            "price": 1329,
+            "link": "https://www.newegg.com/msi-geforce-rtx-3090-ti-rtx-3090-ti-gaming-x-trio-24g/p/N82E16814137728?Description=3090&cm_re=3090-_-14-137-728-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "GIGABYTE AORUS GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3060AORUS E-12GD",
+        "FINAL FANTASY XIV ONLINE: Complete Edition (2021 w/Endwalker) - [Mog Station - PC Windows Download] Non-Steam and ZOTAC ArcticStorm GeForce RTX 3090 Video Card ZT-A30900Q-30P",
         {
-            "id": -9216157563369099254,
-            "price": 449,
-            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3060-gv-n3060aorus-e-12gd/p/N82E16814932506R?Description=3060&cm_re=3060-_-14-932-506R-_-Product",
+            "id": -6849489264428964143,
+            "price": 1343,
+            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4505421",
             "newegg in stock": true
         }
     ],
     [
-        "GIGABYTE Vision OC GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3060VISION OC-12GD (rev. 2.0) (LHR)",
+        "Monster Hunter Rise: Sunbreak Deluxe Edition - PC [Online Game Code] and ZOTAC ArcticStorm GeForce RTX 3090 Video Card ZT-A30900Q-30P",
         {
-            "id": 69515089033082900,
-            "price": 450,
-            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3060-gv-n3060vision-oc-12gd/p/N82E16814932432?Description=3060&cm_re=3060-_-14-932-432-_-Product",
+            "id": -2068577182199032929,
+            "price": 1344,
+            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4505626",
             "newegg in stock": true
         }
     ],
     [
-        "ASUS TUF Gaming GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card TUF-RTX3060-O12G-V2-GAMING",
+        "GIGABYTE Gaming GeForce RTX 3090 Ti 24GB GDDR6X PCI Express 4.0 ATX Video Card GV-N309TGAMING-24GD",
         {
-            "id": 950709442830800654,
-            "price": 451,
-            "link": "https://www.newegg.com/asus-geforce-rtx-3060-tuf-rtx3060-o12g-v2-gaming/p/N82E16814126523?Description=3060&cm_re=3060-_-14-126-523-_-Product",
+            "id": 7699305318618043219,
+            "price": 1349,
+            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3090-ti-gv-n309tgaming-24gd/p/N82E16814932512?Description=3090&cm_re=3090-_-14-932-512-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "GIGABYTE AORUS GeForce RTX 3060 ELITE 12GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3060AORUS E-12GD (rev. 2.0) (LHR)",
+        "ELDEN RING - PC [Steam Online Game Code] and ZOTAC ArcticStorm GeForce RTX 3090 Video Card ZT-A30900Q-30P",
         {
-            "id": -1691341617835316407,
-            "price": 459,
-            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3060-gv-n3060aorus-e-12gd/p/N82E16814932431R?Description=3060&cm_re=3060-_-14-932-431R-_-Product",
+            "id": 4483192278270249008,
+            "price": 1354,
+            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4505558",
             "newegg in stock": true
         }
     ],
     [
-        "GIGABYTE AORUS GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 ATX Video Card, LHR GV-N3060AORUS E-12GD (rev. 2.0)",
+        "ASUS TUF Gaming GeForce RTX 3090 Ti 24GB GDDR6X PCI Express 4.0 SLI Support Video Card TUF-RTX3090TI-O24G-GAMING",
         {
-            "id": -7483628157020419173,
-            "price": 461,
-            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3060-gv-n3060aorus-e-12gd/p/N82E16814932508?Description=3060&cm_re=3060-_-14-932-508-_-Product",
+            "id": 1409003428826221447,
+            "price": 1379,
+            "link": "https://www.newegg.com/asus-geforce-rtx-3090-ti-tuf-rtx3090ti-o24g-gaming/p/N82E16814126555R?Description=3090&cm_re=3090-_-14-126-555R-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "ASUS ROG Strix GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card ROG-STRIX-RTX3060-O12G-V2-GAMING",
+        "EVGA GeForce RTX 3090 Ti FTW3 ULTRA GAMING, 24G-P5-4985-KR, 24GB GDDR6X, iCX3 Technology, ARGB LED, Metal Backplate, Includes eLeash",
         {
-            "id": -3427711708279101963,
-            "price": 479,
-            "link": "https://www.newegg.com/asus-geforce-rtx-3060-rog-strix-rtx3060-o12g-v2-gaming/p/N82E16814126522?Description=3060&cm_re=3060-_-14-126-522-_-Product",
+            "id": 3020547859699153678,
+            "price": 1397,
+            "link": "https://www.newegg.com/evga-geforce-rtx-3090-ti-24g-p5-4985-kr/p/N82E16814487560?Description=3090&cm_re=3090-_-14-487-560-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "ASUS TUF Gaming GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 Video Card TUF-RTX3060-O12G-DEMONSLAYER",
+        "EVGA GeForce RTX 3090 Ti FTW3 GAMING, 24G-P5-4983-KR, 24GB GDDR6X, iCX3 Technology, ARGB LED, Metal Backplate, Includes eLeash",
         {
-            "id": -249646224406187409,
-            "price": 489,
-            "link": "https://www.newegg.com/asus-geforce-rtx-3060-tuf-rtx3060-o12g-demonslayer/p/N82E16814126591?Description=3060&cm_re=3060-_-14-126-591-_-Product",
+            "id": 247502248147714215,
+            "price": 1399,
+            "link": "https://www.newegg.com/evga-geforce-rtx-3090-ti-24g-p5-4983-kr/p/N82E16814487561?Description=3090&cm_re=3090-_-14-487-561-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "PC Game Pass (100+ PC Games All You Can Play) 3 Month US Region [Digital Code] and MSI Ventus GeForce RTX 3060 Ti Video Card RTX 3060 Ti VENTUS 2X 8G OCV1 LHR",
+        "ASUS TUF Gaming NVIDIA GeForce RTX 3090 Ti Graphics Card (PCIe 4.0, 24GB GDDR6X, HDMI 2.1, DisplayPort 1.4a, Dual Ball Fan Bearings, Military-grade Certification, GPU Tweak) TUF-RTX3090TI-24G-GAMING",
         {
-            "id": 4750303144293668955,
-            "price": 489,
-            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4509917",
+            "id": 1281930134312805278,
+            "price": 1399,
+            "link": "https://www.newegg.com/asus-geforce-rtx-3090-ti-tuf-rtx3090ti-24g-gaming/p/N82E16814126564?Description=3090&cm_re=3090-_-14-126-564-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "GIGABYTE Eagle OC GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 ATX Video Card GV-N306TEAGLE OC-8GD (rev. 2.0) (LHR)",
+        "CORSAIR HX1000i CP-9020214-NA 1000 W ATX12V 2.4 / EPS12V 2.92 80 PLUS PLATINUM Certified Full Modular Power Supply and MSI Gaming GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support Video Card RTX 3090 GAMING X TRIO 24G",
         {
-            "id": 438370528012027328,
-            "price": 499,
-            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306teagle-oc-8gd/p/N82E16814932455R?Description=3060&cm_re=3060-_-14-932-455R-_-Product",
+            "id": -8704332888544934454,
+            "price": 1424,
+            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4508388",
             "newegg in stock": true
         }
     ],
     [
-        "ASUS TUF Gaming GeForce RTX 3060 Ti V2 OC Edition 8GB GDDR6 PCI Express 4.0 Video Card TUF-RTX3060TI-O8G-V2-GAMING (LHR)",
+        "CORSAIR HX1000i CP-9020214-NA 1000 W ATX12V 2.4 / EPS12V 2.92 80 PLUS PLATINUM Certified Full Modular Power Supply and EVGA GeForce RTX 3090 XC3 ULTRA GAMING Video Card 24G-P5-3975-KR 24GB GDDR6X iCX3 Cooling ARGB LED Metal Backplate",
         {
-            "id": 1349720829168796369,
-            "price": 499,
-            "link": "https://www.newegg.com/asus-geforce-rtx-3060-ti-tuf-rtx3060ti-o8g-v2-gaming/p/N82E16814126520R?Description=3060&cm_re=3060-_-14-126-520R-_-Product",
+            "id": 1707803497574381187,
+            "price": 1454,
+            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4508391",
             "newegg in stock": true
         }
     ],
     [
-        "GIGABYTE GeForce RTX 3060 EAGLE OC 12G Graphics Card, 2 x WINDFORCE Fans, 12GB 192-bit GDDR6, GV-N3060EAGLE OC-12GD Video Card",
+        "MSI Suprim GeForce RTX 3090 Ti 24GB GDDR6X PCI Express 4.0 SLI Support ATX Video Card RTX 3090 TI SUPRIM X 24G",
         {
-            "id": -6404513954890776648,
-            "price": 499,
-            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3060-gv-n3060eagle-oc-12gd/p/N82E16814932403R?Description=3060&cm_re=3060-_-14-932-403R-_-Product",
+            "id": 3690783181255305165,
+            "price": 1459,
+            "link": "https://www.newegg.com/msi-geforce-rtx-3090-ti-rtx-3090-ti-suprim-x-24g/p/N82E16814137727?Description=3090&cm_re=3090-_-14-137-727-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "FINAL FANTASY XIV ONLINE: Complete Edition (2021 w/Endwalker) - [Mog Station - PC Windows Download] Non-Steam and MSI Ventus GeForce RTX 3060 Ti Video Card RTX 3060 Ti VENTUS 2X 8G OCV1 LHR",
+        "CORSAIR HX1000i CP-9020214-NA 1000 W ATX12V 2.4 / EPS12V 2.92 80 PLUS PLATINUM Certified Full Modular Power Supply and ASUS TUF Gaming GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support Video Card TUF-RTX3090-O24G-GAMING",
         {
-            "id": -8140212755628833158,
-            "price": 513,
-            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4505408",
+            "id": 8354486717817760001,
+            "price": 1464,
+            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4508387",
             "newegg in stock": true
         }
     ],
     [
-        "Monster Hunter Rise: Sunbreak Deluxe Edition - PC [Online Game Code] and MSI Ventus GeForce RTX 3060 Ti Video Card RTX 3060 Ti VENTUS 2X 8G OCV1 LHR",
+        "GIGABYTE Gaming GeForce RTX 3090 Ti 24GB GDDR6X PCI Express 4.0 ATX Video Card GV-N309TGAMING OC-24GD",
         {
-            "id": -1006194261938554359,
-            "price": 514,
-            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4505613",
+            "id": -6247290781353990740,
+            "price": 1499,
+            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3090-ti-gv-n309tgaming-oc-24gd/p/N82E16814932511?Description=3090&cm_re=3090-_-14-932-511-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "MSI Ventus GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 Video Card RTX 3060 Ti VENTUS 2X 8G OCV1 LHR",
+        "GIGABYTE AORUS GeForce RTX 3090 Ti XTREME WATERFORCE 24GB GDDR6X PCI Express 4.0 ATX Video Card GV-N309TAORUSX W-24GD",
         {
-            "id": 8281358714153069139,
-            "price": 519,
-            "link": "https://www.newegg.com/msi-geforce-rtx-3060-ti-rtx-3060-ti-ventus-2x-8g-ocv1-lhr/p/N82E16814137673R?Description=3060&cm_re=3060-_-14-137-673R-_-Product",
+            "id": 4450385230151231228,
+            "price": 1499,
+            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3090-ti-gv-n309taorusx-w-24gd/p/N82E16814932510?Description=3090&cm_re=3090-_-14-932-510-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "ELDEN RING - PC [Steam Online Game Code] and MSI Ventus GeForce RTX 3060 Ti Video Card RTX 3060 Ti VENTUS 2X 8G OCV1 LHR",
+        "ASUS ROG STRIX GeForce RTX 3090 Ti 24GB GDDR6X PCI Express 4.0 SLI Support Video Card ROG-STRIX-LC-RTX3090TI-O24G-GAMING",
         {
-            "id": 6360256006670215281,
-            "price": 524,
-            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4505545",
+            "id": 3380374120213245853,
+            "price": 1499,
+            "link": "https://www.newegg.com/asus-geforce-rtx-3090-ti-rog-strix-lc-rtx3090ti-o24g-gaming/p/N82E16814126554?Description=3090&cm_re=3090-_-14-126-554-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "GIGABYTE Gaming OC GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 ATX Video Card GV-N306TGAMING OC-8GD REV 2.0 (LHR)",
+        "ASUS ROG Strix GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support Video Card ROG-STRIX-RTX3090-O24G-WHITE",
         {
-            "id": -7138263453668205960,
-            "price": 529,
-            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306tgaming-oc-8gd-rev-2-0/p/N82E16814932468R?Description=3060&cm_re=3060-_-14-932-468R-_-Product",
+            "id": -8974579375447882686,
+            "price": 1499,
+            "link": "https://www.newegg.com/asus-geforce-rtx-3090-rog-strix-rtx3090-o24g-white/p/N82E16814126482R?Description=3090&cm_re=3090-_-14-126-482R-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "GIGABYTE Vision GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3060VISION OC-12GD",
+        "CORSAIR HX1000i CP-9020214-NA 1000 W ATX12V 2.4 / EPS12V 2.92 80 PLUS PLATINUM Certified Full Modular Power Supply and GIGABYTE GeForce RTX 3090 GAMING OC 24G Video Card GV-N3090GAMING OC-24GD",
         {
-            "id": -2053600942896632626,
-            "price": 539,
-            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3060-gv-n3060vision-oc-12gd/p/N82E16814932482R?Description=3060&cm_re=3060-_-14-932-482R-_-Product",
+            "id": -691407302102721689,
+            "price": 1523,
+            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4508389",
             "newegg in stock": true
         }
     ],
     [
-        "ASUS ROG Strix NVIDIA GeForce RTX 3060 Ti V2 OC Edition Gaming Graphics Card (PCIe 4.0, 8GB GDDR6, LHR, HDMI 2.1, DisplayPort 1.4a, Axial-tech Fan Design, 2.9-slot, Super Alloy Power II, GPU Tweak II)",
+        "CORSAIR HX1000i CP-9020214-NA 1000 W ATX12V 2.4 / EPS12V 2.92 80 PLUS PLATINUM Certified Full Modular Power Supply and ZOTAC ArcticStorm GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support ATX Video Card ZT-A30900Q-30P",
         {
-            "id": -2432391563574792737,
-            "price": 549,
-            "link": "https://www.newegg.com/asus-geforce-rtx-3060-ti-rog-strix-rtx3060ti-o8g-v2-gaming/p/N82E16814126529R?Description=3060&cm_re=3060-_-14-126-529R-_-Product",
+            "id": 2685518209636016133,
+            "price": 1524,
+            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4508392",
             "newegg in stock": true
         }
     ],
     [
-        "GIGABYTE Vision OC GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 ATX Video Card GV-N306TVISION OC-8GD (rev. 2.0) (LHR)",
+        "CORSAIR HX1500i CP-9020215-NA 1500W ATX12V 2.52 / EPS12V 2.92 80 PLUS PLATINUM Certified Full Modular Power Supply and MSI Gaming GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support Video Card RTX 3090 GAMING X TRIO 24G",
         {
-            "id": 1907322172242605269,
-            "price": 559,
-            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306tvision-oc-8gd/p/N82E16814932454R?Description=3060&cm_re=3060-_-14-932-454R-_-Product",
+            "id": -6683216088373301962,
+            "price": 1564,
+            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4508370",
             "newegg in stock": true
         }
     ],
     [
-        "MSI Ventus GeForce RTX 3060 Ti 8GB GDDR6 PCI Express 4.0 Video Card RTX 3060 Ti VENTUS 3X 8G OC LHR",
+        "CORSAIR HX1500i CP-9020215-NA 1500W ATX12V 2.52 / EPS12V 2.92 80 PLUS PLATINUM Certified Full Modular Power Supply and EVGA GeForce RTX 3090 XC3 ULTRA GAMING Video Card 24G-P5-3975-KR 24GB GDDR6X iCX3 Cooling ARGB LED Metal Backplate",
         {
-            "id": 4664291240268032838,
-            "price": 579,
-            "link": "https://www.newegg.com/msi-geforce-rtx-3060-ti-rtx-3060-ti-ventus-3x-8g-oc-lhr/p/N82E16814137680R?Description=3060&cm_re=3060-_-14-137-680R-_-Product",
+            "id": 8828480325999138454,
+            "price": 1594,
+            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4508373",
             "newegg in stock": true
         }
     ],
     [
-        "MSI Modern MD241P 24\" (23.8\" Viewable) 1920 x 1080 FHD 75Hz IPS HDMI USB Type-C Swivel Pivot Height Adjust Tilt Built-in Speakers Monitor and MSI Ventus GeForce RTX 3060 Ti Video Card RTX 3060 Ti VENTUS 2X 8G OCV1 LHR",
+        "CORSAIR HX1500i CP-9020215-NA 1500W ATX12V 2.52 / EPS12V 2.92 80 PLUS PLATINUM Certified Full Modular Power Supply and ASUS TUF Gaming GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support Video Card TUF-RTX3090-O24G-GAMING",
         {
-            "id": 2917615508713600802,
-            "price": 629,
-            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4506842",
+            "id": -3837266721486688199,
+            "price": 1604,
+            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4508369",
             "newegg in stock": true
         }
     ],
     [
-        "MSI Modern MD241PW 24\" (23.8\" Viewable) 1920 x 1080 FHD 75Hz IPS HDMI USB Type-C Swivel Pivot Height Adjust Tilt VESA Built-in Speakers Monitor and MSI Ventus GeForce RTX 3060 Ti Video Card RTX 3060 Ti VENTUS 2X 8G OCV1 LHR",
+        "CORSAIR HX1500i CP-9020215-NA 1500W ATX12V 2.52 / EPS12V 2.92 80 PLUS PLATINUM Certified Full Modular Power Supply and GIGABYTE GeForce RTX 3090 GAMING OC 24G Video Card GV-N3090GAMING OC-24GD",
         {
-            "id": -1989367685123597365,
-            "price": 629,
-            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4506810",
+            "id": 4959478120837107858,
+            "price": 1663,
+            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4508371",
             "newegg in stock": true
         }
     ],
     [
-        "GIGABYTE GeForce RTX 3060 Ti EAGLE OC 8GB Video Card, GV-N306TEAGLE OC-8GD (rev. 1.0)",
+        "CORSAIR HX1500i CP-9020215-NA 1500W ATX12V 2.52 / EPS12V 2.92 80 PLUS PLATINUM Certified Full Modular Power Supply and ZOTAC ArcticStorm GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support ATX Video Card ZT-A30900Q-30P",
         {
-            "id": -548263747727332292,
-            "price": 799,
-            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306teagle-oc-8gd/p/N82E16814932378R?Description=3060&cm_re=3060-_-14-932-378R-_-Product",
+            "id": -6311664492499246041,
+            "price": 1664,
+            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4508374",
             "newegg in stock": true
         }
     ],
     [
-        "SAMSUNG Odyssey G55A LS27AG550ENXZA 27\" WQHD 2560 x 1440 (2K) 165 Hz HDMI DisplayPort Audio FreeSync Premium (AMD Adaptive Sync) Curved Gaming Monitor and MSI Gaming GeForce RTX 3060 Ti Video Card RTX 3060 Ti Gaming X 8G LHR",
+        "GIGABYTE GeForce RTX 3090 GAMING OC 24G Video Card, GV-N3090GAMING OC-24GD",
         {
-            "id": -7987478692269649009,
-            "price": 819,
-            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4506878",
+            "id": 4284651612447959666,
+            "price": 1799,
+            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3090-gv-n3090gaming-oc-24gd/p/N82E16814932327R?Description=3090&cm_re=3090-_-14-932-327R-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "AORUS FI32Q-X 32\" QHD 2560 x 1440 (2K) 240 Hz / OC 270 Hz HDMI DisplayPort USB Audio FreeSync Premium Pro (AMD Adaptive Sync) Gaming Monitor and GIGABYTE Gaming OC GeForce RTX 3060 12GB GDDR6 PCI Express 4.0 ATX Video Card GV-N3060GAMING OC",
+        "GIGABYTE AORUS GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 GAMING BOX GV-N3090IXEB-24GD",
         {
-            "id": 6813992175302753865,
-            "price": 1079,
-            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4506793",
+            "id": 6591171259762264272,
+            "price": 1992,
+            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3090-gv-n3090ixeb-24gd/p/N82E16814932495?Description=3090&cm_re=3090-_-14-932-495-_-Product",
             "newegg in stock": true
         }
     ],
     [
-        "ASUS ProArt Display 32\" 1440P Monitor (PA328CGV) - QHD (2560 x 1440) IPS 165Hz 95% DCI-P3 100% sRGB/Rec.709 Delta E < 2 Calman Verified USB-C Power Delivery DisplayPort HDMI USB 3.1 Hub and ASUS ROG Strix GeForce RTX 3060 Video Card ROG-STR",
+        "GIGABYTE AORUS GeForce RTX 3090 24GB GDDR6X PCI Express 4.0 SLI Support ATX Video Card GV-N3090AORUSX W-24GD",
         {
-            "id": 6665373549257793620,
-            "price": 1169,
-            "link": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4506570",
+            "id": -6010218731432428369,
+            "price": 2079,
+            "link": "https://www.newegg.com/gigabyte-geforce-rtx-3090-gv-n3090aorusx-w-24gd/p/N82E16814932501?Description=3090&cm_re=3090-_-14-932-501-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "ASUS EKWB GeForce RTX 3090 24GB GDDR6X (PCIe 4.0, 24GB GDDR6X Memory, HDMI 2.1, DisplayPort 1.4a, Auto-Extreme Technology, Protective Backplate, Single-slot Design, and EK Water Block), RTX3090-24G-EK",
+        {
+            "id": -5798146907983996030,
+            "price": 2239,
+            "link": "https://www.newegg.com/asus-geforce-rtx-3090-rtx3090-24g-ek/p/N82E16814126485?Description=3090&cm_re=3090-_-14-126-485-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "PNY XLR8 Gaming UPRISING EPIC-X RGB Overclocked GeForce RTX 3090 Ti 24GB GDDR6X PCI Express 4.0 SLI Support Video Card VCG3090T24TFXMPB-O",
+        {
+            "id": 7863727920009612168,
+            "price": 2259,
+            "link": "https://www.newegg.com/pny-geforce-rtx-3090-ti-vcg3090t24tfxmpb-o/p/N82E16814133840?Description=3090&cm_re=3090-_-14-133-840-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "Skytech PRISM II Gaming PC Desktop - AMD Ryzen 7 5800X 3.8GHz, RTX 3090 24GB GDDR6X, 32GB DDR4 3600 RGB, 1TB Gen4 SSD, 360mm AIO, AC WiFi, Windows 10 Home 64-bit (Refurbished)",
+        {
+            "id": -4676050652433436165,
+            "price": 2819,
+            "link": "https://www.newegg.com/skytech-st-prism-ii-0132-r/p/N82E16883289190?Description=3090&cm_re=3090-_-83-289-190-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "ABS Legend Gaming PC - Intel i9 10850K - EVGA GeForce RTX 3090 FTW3 Ultra Gaming - G.Skill TridentZ RGB 32GB DDR4 3200MHz - 1TB Intel M.2 NVMe SSD - EVGA CLC 240MM RGB AIO",
+        {
+            "id": -121787823280669542,
+            "price": 3359,
+            "link": "https://www.newegg.com/abs-ali523-legend/p/N82E16883360128R?Description=3090&cm_re=3090-_-83-360-128R-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "ABS Legend Gaming PC - Intel i7 11700K - Gigabyte RTX 3090 Gaming OC - G.Skill TridentZ RGB 32GB DDR4 3200MHz - 1TB Intel 670P M.2 NVMe SSD - 240MM RGB AIO",
+        {
+            "id": -3245704371570939450,
+            "price": 3599,
+            "link": "https://www.newegg.com/abs-ali553-legend/p/N82E16883360183R?Description=3090&cm_re=3090-_-83-360-183R-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "iBUYPOWER Gaming Desktop Revolt 3 i9BG Intel Core i9 11th Gen 11900KF (3.50GHz) 16GB DDR4 1 TB NVMe SSD NVIDIA GeForce RTX 3090 Windows 10 Home 64-bit",
+        {
+            "id": 8255080910674507812,
+            "price": 3651,
+            "link": "https://www.newegg.com/ibuypower-revolt-3-i9bg/p/N82E16883227948?Description=3090&cm_re=3090-_-83-227-948-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "CLX SET VR-Ready Gaming Desktop - Liquid Cooled AMD Ryzen 7 5800X 3.8Ghz 8-Core Processor, 32GB DDR4 Memory, GeForce RTX 3090 24GB GDDR6X Graphics, 480GB SSD, 3TB HDD, WiFi, Windows 11 Home 64-bit",
+        {
+            "id": 4835586024816481042,
+            "price": 3680,
+            "link": "https://www.newegg.com/clx-tgmsetrtm0b29bm/p/3D5-000B-001V0?Description=3090&cm_re=3090-_-3D5-000B-001V0-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "ABS Legend Gaming PC - Windows 10 Pro - Intel i9-11900K - GeForce RTX 3090 - G.Skill TridentZ RGB 32GB DDR4 3200 MHz - 1TB M.2 Gigabyte AORUS Gen4 7000 SSD",
+        {
+            "id": -2673538515954658737,
+            "price": 3699,
+            "link": "https://www.newegg.com/abs-ali543-legend/p/N82E16883360163R?Description=3090&cm_re=3090-_-83-360-163R-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "CLX SET VR-Ready Gaming Desktop - Liquid Cooled AMD Ryzen 9 5950X 3.4Ghz 16-Core Processor, 32GB DDR4 Memory, GeForce RTX 3090 24GB GDDR6X Graphics, 480GB SSD, 3TB HDD, WiFi, Windows 11 Home 64-bit",
+        {
+            "id": 8739172189558294599,
+            "price": 3979,
+            "link": "https://www.newegg.com/clx-tgmsetrth0b31bm/p/3D5-000B-001V2?Description=3090&cm_re=3090-_-3D5-000B-001V2-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "ROG Strix GA35 Gaming Desktop PC, GeForce RTX 3090, Factory Overclocked AMD Ryzen 9 5900X, 32GB DDR4 RAM, 1TB PCIe SSD + 2TB HDD, Dual Hot-Swap SSD Bays, Windows 10 Professional, GA35DX-XB999",
+        {
+            "id": -1901563186557747514,
+            "price": 3999,
+            "link": "https://www.newegg.com/asus-ga35dx-xb999-rog-strix-ga35/p/N82E16883221676R?Description=3090&cm_re=3090-_-83-221-676R-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "ABS Legend Gaming PC - Intel i7 11700K - GeForce RTX 3090 - G.Skill TridentZ RGB 32GB DDR4 3200MHz - 1TB Intel 670P M.2 NVMe SSD - 240MM RGB AIO",
+        {
+            "id": -1103641581046405844,
+            "price": 3999,
+            "link": "https://www.newegg.com/abs-ali553/p/N82E16883360183?Description=3090&cm_re=3090-_-83-360-183-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "ABS Legend Gaming PC - Intel i9 10900KF - ASUS ROG STRIX GeForce RTX 3090 OC - G.Skill TridentZ RGB 32GB DDR4 3200MHz - 2TB Intel 660P M.2 NVMe SSD - Corsair H115i RGB Platinum 280MM AIO",
+        {
+            "id": 235277715465208028,
+            "price": 3999,
+            "link": "https://www.newegg.com/abs-ali528-legend/p/N82E16883360133R?Description=3090&cm_re=3090-_-83-360-133R-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "CLX SET VR-Ready Gaming Desktop - Liquid Cooled AMD Ryzen 9 5900X 3.7Ghz 12-Core Processor, 64GB DDR4 Memory, GeForce RTX 3090 24GB GDDR6X Graphics, 1TB SSD, 6TB HDD, WiFi, Windows 11 Home 64-bit",
+        {
+            "id": 8148278813390832323,
+            "price": 4049,
+            "link": "https://www.newegg.com/clx-tgmsetrth0b27bm/p/3D5-000B-001U2?Description=3090&cm_re=3090-_-3D5-000B-001U2-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "ABS Legend Gaming PC - Intel i9 11900K - GeForce RTX 3090 - G.Skill TridentZ RGB 32GB DDR4 3200MHz - 1TB AORUS GEN4 M.2 NVMe SSD - Corsair H115i Elite Capellix RGB 280MM AIO",
+        {
+            "id": -7329051289345035238,
+            "price": 4099,
+            "link": "https://www.newegg.com/abs-ali556-legend/p/N82E16883360186R?Description=3090&cm_re=3090-_-83-360-186R-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "Helix ADENINE Gaming PC - AMD RYZEN 9 5950X - GIGABYTE AORUS GeForce RTX 3090 XTREME - G.SKILL TridentZ RGB 32GB 3200MHz - 1TB Intel M.2 NVMe SSD - NZXT Kraken Z73A AIO",
+        {
+            "id": 1901632667934563156,
+            "price": 4249,
+            "link": "https://www.newegg.com/helix-adenine003/p/N82E16883098008?Description=3090&cm_re=3090-_-83-098-008-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "ADENINE Alpha005-AT Gaming Desktop - Intel i9-12900K, GeForce RTX 3090, Z690 Plus, M.2 2280 2TB, 64GB RAM, Win 10 Pro",
+        {
+            "id": -5703271131184006037,
+            "price": 4249,
+            "link": "https://www.newegg.com/adenine-alpha005-at/p/N82E16883099019R?Description=3090&cm_re=3090-_-83-099-019R-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "CLX SET Gaming Desktop - Liquid Cooled - Intel Core i9 10900KF 3.70 GHz 10-Cores Processor, 64GB DDR4 Memory, GeForce RTX 3090 24GB GDDR6X Graphics, 1TB SSD, 6TB HDD, WiFi, Windows 11 Home 64-bit",
+        {
+            "id": -141123841590499744,
+            "price": 4333,
+            "link": "https://www.newegg.com/clx-tgmsetrth0941bm/p/3D5-000B-001D5?Description=3090&cm_re=3090-_-3D5-000B-001D5-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "CLX SET Gaming Desktop - Liquid Cooled - Intel Core i9 10980XE 3.00 GHz 18-Cores Processor, 64GB DDR4 Memory, GeForce RTX 3090 24GB GDDR6X Graphics, 1TB SSD, 6TB HDD, WiFi, Windows 11 Home 64-bit",
+        {
+            "id": -635012063430401712,
+            "price": 4918,
+            "link": "https://www.newegg.com/clx-tgmsetrth0947bm/p/3D5-000B-001F2?Description=3090&cm_re=3090-_-3D5-000B-001F2-_-Product",
+            "newegg in stock": true
+        }
+    ],
+    [
+        "CLX SET VR-Ready Gaming Desktop - Liquid Cooled AMD Ryzen 9 5950X 3.4Ghz 16-Core Processor, 64GB DDR4 Memory, GeForce RTX 3090 24GB GDDR6X Graphics, 1TB SSD, 6TB HDD, WiFi, Windows 11 Home 64-bit",
+        {
+            "id": 7970115431464655598,
+            "price": 5629,
+            "link": "https://www.newegg.com/clx-tgmsetrth0b28bm/p/3D5-000B-001U5R?Description=3090&cm_re=3090-_-3D5-000B-001U5R-_-Product",
             "newegg in stock": true
         }
     ]
