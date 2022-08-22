@@ -46,10 +46,10 @@ def createObjects():
             yamlData = safe_load(webConfig)
             yamlData = yamlData['website-info']
 
-        searchUrl = createCompleteLink(yamlData)
-        print(searchUrl.format("1249"))
-        
-        objList.append(Webpage(yamlData['site-name'], yamlData['search-url'], yamlData['search-page'],
+        urlInfo = {"baseUrl": yamlData['search-url'], "urlPrefix": yamlData['url-prefix'],
+                    "searchPrefix": yamlData['search-prefix'], "pagePrefix": yamlData['page-prefix']}
+
+        objList.append(Webpage(yamlData['site-name'], urlInfo,
             yamlData['html-items'], yamlData['cms-products-class'], yamlData['pagnation-class']))
 
     return objList

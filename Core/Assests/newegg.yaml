@@ -2,10 +2,10 @@
 ---
 website-info:
   site-name: "Newegg"
-  search-url: "https://www.newegg.com/p/pl?d="
-  search-page: "&page="
-  search-page-index: 30
-  search-index: -1
+  search-url: "https://www.newegg.com/p/pl?"
+  url-prefix: "&"
+  search-prefix: "d="
+  page-prefix: "page="
   html-items: "item-cells-wrap border-cells items-grid-view four-cells expulsion-one-cell"
   cms-products-class: "item-cells-wrap border-cells items-grid-view four-cells expulsion-one-cell"
   pagnation-class: "btn-group-cell"

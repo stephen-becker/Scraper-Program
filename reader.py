@@ -20,18 +20,22 @@ userInquiry = str(input("What item to search for? "))
 itemCount = 0
 
 # Gets the url information and takes the html for BeautifulSoup to analyize
-HEADERS = ({'User-Agent':
-            'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36',
-            'Accept-Language': 'en-US, en;q=0.5'})
+HDR = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36'
+}
 
 websites = createObjects()
 website_items = {}
 itemStorage = {}
+sortedItems = {}
+loopCounter = 0
 
 for site in websites:
 
-    url = site.searchLink + userInquiry
-    searchPage = requests.get(url, HEADERS).text
+    baseUrl, urlPrefix, searchPrefix, pagePrefix = site.getUrlInfo()
+
+    url = baseUrl + urlPrefix + searchPrefix + userInquiry
+    searchPage = requests.get(url, headers=HDR).text
     htmlFrame = bs(searchPage, "lxml")
 
     #pagnation
@@ -50,17 +54,18 @@ for site in websites:
     pageNumbers = max(pageNumbers)
 
     for currentPage in range(1, pageNumbers+1):
-        newUrl = url + site.searchTag + str(currentPage)
+        newUrl = url + urlPrefix + pagePrefix + str(currentPage)
         onPage = currentPage
-        searchPage = requests.get(newUrl, HEADERS).text
+        searchPage = requests.get(newUrl, headers=HDR).text
         htmlFrame = bs(searchPage, "lxml")
 
         div = htmlFrame.find(class_=site.itemTags)
         itemsFound = div.find_all(text=(re.compile(userInquiry, flags=re.I)))
 
         #Added status feature to see progress
-        print("Scanning Page {}/{}\t-\tApprox {} items scanned.".format(currentPage,pageNumbers,len(itemsFound)))
+        print("{} - Scanning Page {}/{}\t-\tApprox {} items scanned.".format(site.name, currentPage,pageNumbers,len(itemsFound)))
 
+        ## THIS NEEDS TO BE FIXED TO WORK DYNAMICALLY ACROSS NEWEGG AND BESTBUY
         for item in itemsFound:
 
             # Goes out to parent cell since price and link are in another subclass
@@ -115,10 +120,28 @@ for site in websites:
 
                 pass
         
-        site.updateStorage(itemStorage)
-        website_items[site.name] = site
+    site.updateStorage(itemStorage)
+    website_items[site.name] = site
+    #sortedItems.append(sorted(site.getStorage().items(), key=lambda x: x[1]['price']))
+    #sortedItems = sorted(site.getStorage().items(), key=lambda x: x[1]['price'])
+
 
 print(website_items)
+# Creates a generic json file with all the output
+#sortedItems = sorted(website_items['Newegg'].getStorage().items(), key=lambda x: x[1]['price'])
+sortedItems2 = sorted(website_items['BestBuy'].getStorage().items(), key=lambda x: x[1]['price'])
+
+if not os.path.exists("Output Directory"):
+    os.mkdir("Output Directory")
+
+# with open("Output Directory/output.json", "w") as file:
+#     json.dump(sortedItems, file, indent=4)
+
+with open("Output Directory/output2.json", "w") as file:
+    json.dump(sortedItems2, file, indent=4)
+
+#
+#sortedItems = sorted(itemStorage.items(), key=lambda x: x[1]['price'])
 
 # # Sorts the items by lowest price first
 # sortedItems = sorted(itemStorage.items(), key=lambda x: x[1]['price'])

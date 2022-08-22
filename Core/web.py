@@ -1,9 +1,8 @@
 class Webpage:
 
-    def __init__(self, name, searchLink, searchTag, itemTags, cmsTags, pagnation):
+    def __init__(self, name, url, itemTags, cmsTags, pagnation):
         self.name = name
-        self.searchLink = searchLink
-        self.searchTag = searchTag
+        self.url = url
         self.itemTags = itemTags
         self.cmsTags = cmsTags
         self.pagnation = pagnation
@@ -14,3 +13,7 @@ class Webpage:
 
     def getStorage(self):
         return self.itemStorage
+
+    def getUrlInfo(self):
+        return (self.url['baseUrl'], self.url['urlPrefix'],
+            self.url['searchPrefix'], self.url['pagePrefix'])

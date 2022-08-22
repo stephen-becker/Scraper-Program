@@ -1,8 +1,8 @@
 # SETTINGS FOR THE WEBSITE SCRAPER
 ---
 active-websites:
-  newegg: True
-  bestbuy: False
+  newegg: False
+  bestbuy: True
 
 search-options:
   limit-pages: 0 # For no limit set to 0 (0 by default)
