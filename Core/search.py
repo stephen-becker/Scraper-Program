@@ -21,13 +21,14 @@ def readConfigYaml(path):
 
     return table
 
-def createCompleteLink(webData):
-    insertIndex = webData['search-page-index']
-    te = str(webData['search-url'])
-    print(te)
-    ste = "{te} + {}"
+def getSearchOptions(path):
 
-    return ste
+    from yaml import safe_load
+
+    with open(path, 'r') as primary:
+        configData = safe_load(primary)
+    
+    return configData['search-options']
 
 def createObjects():
 
@@ -50,6 +51,7 @@ def createObjects():
                     "searchPrefix": yamlData['search-prefix'], "pagePrefix": yamlData['page-prefix']}
 
         objList.append(Webpage(yamlData['site-name'], urlInfo,
-            yamlData['html-items'], yamlData['cms-products-class'], yamlData['pagnation-class']))
+            yamlData['html-items'], yamlData['cms-products-class'], yamlData['pagnation-class'],
+            yamlData['parent-info'], yamlData['price-info'], yamlData['price-type']))
 
     return objList

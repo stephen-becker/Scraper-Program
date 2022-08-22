@@ -9,3 +9,6 @@ website-info:
   html-items: "list-wrapper top-border"
   cms-products-class: "list-wrapper top-border"
   pagnation-class: "page-item"
+  parent-info: "list-item lv"
+  price-info: "priceView-hero-price priceView-customer-price"
+  price-type: "span"
