@@ -3,8 +3,8 @@
 active-websites:
   newegg: True
   bestbuy: True
-  bhphoto: False
 
 search-options:
   limit-pages: 5 # For no limit set to 0 (0 by default)
-  wait-time: 0 # Time to load between each page
+  wait-time: 0 # Time to load between each page (600 seconds is max | 0 by default for no limit)
+  include-out-of-stock: True # Includes out of stock items

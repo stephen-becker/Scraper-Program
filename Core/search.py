@@ -51,7 +51,7 @@ def createObjects():
                     "searchPrefix": yamlData['search-prefix'], "pagePrefix": yamlData['page-prefix']}
 
         objList.append(Webpage(yamlData['site-name'], urlInfo,
-            yamlData['html-items'], yamlData['cms-products-class'], yamlData['pagnation-class'],
-            yamlData['parent-info'], yamlData['price-info'], yamlData['price-type']))
+            yamlData['html-items'], yamlData['cms-products-class'], yamlData['pagination-class'],
+            yamlData['parent-info'], yamlData['price-info'], yamlData['price-type'], yamlData['out-of-stock']))
 
     return objList

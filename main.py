@@ -31,7 +31,7 @@ pageSelector = htmlFrame.find(class_="list-tool-pagination-text").find("strong")
 maxNumberPages = int(str(pageSelector).split("/")[1].split(">")[1][:-1])
 
 # Options and extra filters
-limitPages = 15
+limitPages = 3
 outOfStockExcluded = True
 
 # Limit pages logic - prevents it from becoming negative, to disable limit set to 0

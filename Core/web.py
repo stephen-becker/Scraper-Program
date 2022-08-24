@@ -1,14 +1,15 @@
 class Webpage:
 
-    def __init__(self, name, url, itemTags, cmsTags, pagnation, parentClass, priceClass, priceType):
+    def __init__(self, name, url, itemTags, cmsTags, pagination, parentClass, priceClass, priceType, stockOption):
         self.name = name
         self.url = url
         self.itemTags = itemTags
         self.cmsTags = cmsTags
-        self.pagnation = pagnation
+        self.pagination = pagination
         self.parentClass = parentClass
         self.priceClass = priceClass
         self.priceType = priceType
+        self.stockOption = stockOption
         self.itemStorage = {}
     
     def updateStorage(self, itemDict):
