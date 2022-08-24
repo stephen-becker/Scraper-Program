@@ -1,4 +1,4 @@
-# BESTBUY.YAML
+# BESTBUY.YAML - DO NOT EDIT
 ---
 website-info:
   site-name: "BestBuy"
@@ -8,7 +8,8 @@ website-info:
   page-prefix: "cp="
   html-items: "list-wrapper top-border"
   cms-products-class: "list-wrapper top-border"
-  pagnation-class: "page-item"
+  pagination-class: "page-item"
   parent-info: "list-item lv"
   price-info: "priceView-hero-price priceView-customer-price"
   price-type: "span"
+  out-of-stock: "qp=soldout_facet%3Dname~Exclude%20Out%20of%20Stock%20Items"

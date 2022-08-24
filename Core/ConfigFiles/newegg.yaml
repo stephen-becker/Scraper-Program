@@ -1,4 +1,4 @@
-# NEWEGG.YAML
+# NEWEGG.YAML - DO NOT EDIT
 ---
 website-info:
   site-name: "Newegg"
@@ -8,7 +8,8 @@ website-info:
   page-prefix: "page="
   html-items: "item-cells-wrap border-cells items-grid-view four-cells expulsion-one-cell"
   cms-products-class: "item-cells-wrap border-cells items-grid-view four-cells expulsion-one-cell"
-  pagnation-class: "btn-group-cell"
+  pagination-class: "btn-group-cell"
   parent-info: "item-container"
   price-info: "price-current"
   price-type: "strong"
+  out-of-stock: ""
