@@ -1,0 +1,8 @@
+# OPTIONS.YML
+---
+newegg:
+  search-url: "https://www.newegg.com/p/pl?d="
+  search-page: "&page="
+  pagnation-class: "list-tool-pagination-text"
+  html-items: "item-cells-wrap border-cells items-grid-view four-cells expulsion-one-cell"
+  cms-products-class: "item-cells-wrap border-cells items-grid-view four-cells expulsion-one-cell"
